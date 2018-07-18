@@ -22,9 +22,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/helium/device.mk)
 
 # Device identifier. This must come after all inclusions
-TARGET_VENDOR := Xiaomi
 PRODUCT_DEVICE := helium
 PRODUCT_NAME := full_helium
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := MI MAX Prime
+PRODUCT_MODEL := helium
 PRODUCT_MANUFACTURER := Xiaomi

@@ -23,6 +23,6 @@ export DEVICE=helium
 export DEVICE_COMMON=msm8956-common
 export VENDOR=xiaomi
 
-export DEVICE_BRINGUP_YEAR=2016
+export DEVICE_BRINGUP_YEAR=2017
 
 ./../../$VENDOR/$DEVICE_COMMON/extract-files.sh $@

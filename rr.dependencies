@@ -1,7 +1,7 @@
 [
   {
     "repository" : "sarthakmalla/device_xiaomi_msm8956-common",
-    "target_path": "device/xiaomi/msm8956-common"
+    "target_path": "device/xiaomi/msm8956-common",
     "branch"     : "8.1"
   },
   {
@@ -16,13 +16,12 @@
   },
   {
     "repository" : "sarthakmalla/kernel_xiaomi_msm8956",
-    "target_path": "kernel/xiaomi/msm8956"
+    "target_path": "kernel/xiaomi/msm8956",
     "branch"     : "oreo"
   },
   {
-    "repository" : "sarthakmalla/vendor_xiaomi_helium-new",
-    "target_path": "vendor/xiaomi/helium",
+    "repository" : "sarthakmalla/vendor_xiaomi_hydrogen-new",
+    "target_path": "vendor/xiaomi/hydrogen",
     "branch"     : "oreo"
   }
 ]
-
